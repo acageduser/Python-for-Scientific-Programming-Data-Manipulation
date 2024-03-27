@@ -1,0 +1,49 @@
+triangle statistics:
+    count = 45
+    min = -32767.0
+    max = 32767.0
+    mean = -728.16
+    median = 0.0
+    pstdev = 19357.52
+sine statistics:
+    count = 45
+    min = -32767.0
+    max = 32767.0
+    mean = -728.16
+    median = 0.0
+    pstdev = 23414.48
+cos statistics:
+    count = 45
+    min = -32767.0
+    max = 32767.0
+    mean = 728.16
+    median = 0.0
+    pstdev = 23414.48
+square statistics:
+    count = 45
+    min = -32767.0
+    max = 32767.0
+    mean = 728.16
+    median = 32767.0
+    pstdev = 32758.91
+pulse statistics:
+    count = 45
+    min = -32767.0
+    max = 32767.0
+    mean = -15291.27
+    median = -32767.0
+    pstdev = 28980.23
+risingsaw statistics:
+    count = 45
+    min = -32767.0
+    max = 32767.0
+    mean = -0.02
+    median = 0.0
+    pstdev = 19343.24
+fallingsaw statistics:
+    count = 45
+    min = -32767.0
+    max = 32767.0
+    mean = 0.02
+    median = 0.0
+    pstdev = 19343.24

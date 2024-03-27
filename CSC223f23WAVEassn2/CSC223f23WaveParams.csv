@@ -1,0 +1,8 @@
+WaveType,Frequency,SampleRate,Duration,DutyCycle
+triangle,1000.0,44100,1,0.25
+sine,1000.0,44100,1,0.25
+cos,1000.0,44100,1,0.25
+square,1000.0,44100,1,0.25
+pulse,1000.0,44100,1,0.25
+risingsaw,1000.0,44100,1,0.25
+fallingsaw,1000.0,44100,1,0.25
