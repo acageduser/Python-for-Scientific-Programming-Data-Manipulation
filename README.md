@@ -1,6 +1,25 @@
 # Python-for-Scientific-Programming-Data-Manipulation
 Python for Scientific Programming &amp; Data Manipulation Fall 2023
 
+#
+# Key Skills Demonstrated
+
+- **Python Programming:** Advanced data manipulation and scripting.
+- **Statistical Analysis:** Generating and analyzing statistical distributions.
+- **Waveform Generation:** Simulating digital signals and waveforms.
+- **Dataflow Programming:** Implementing PULL dataflow architectures with Python.
+- **Visual Data Representation:** Using matplotlib for data visualization.
+- **Linux Command Line:** Managing project environments and automation with makefiles.
+- **Version Control:** Proficient use of Git for source code management.
+- **Problem Solving:** Applied mathematical concepts to solve programming challenges.
+- **Efficiency Optimization:** Employed partial function applications and closures.
+- **Code Documentation and Structuring:** Writing clear, maintainable code with detailed comments.
+
+This project is intended for educational purposes only.
+#
+#
+
+
 ### Assignment 1 Summary: Python for Scientific Programming & Data Manipulation: Generating and Analyzing Statistical Distributions
 In this project, I extended an existing script that generates uniform statistical distributions, enhancing it to include additional distribution types. The project was structured in a Linux environment, where I utilized a series of commands to set up my workspace and access provided files.
 
